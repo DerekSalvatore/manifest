@@ -5,7 +5,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/PixelExperience/manifest -b oreo
+repo init -u https://github.com/DerekSalvatore/manifest -b oreo
 
 # Sync
 repo sync -c -jx --force-sync --no-clone-bundle --no-tags
